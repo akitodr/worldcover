@@ -1,0 +1,3364 @@
+[
+  {
+    "origem": "F1",
+    "destino": "A6",
+    "lat_origem": -24.80224313971169,
+    "lon_origem": -53.29943355567515,
+    "lat_destino": -24.799902020012464,
+    "lon_destino": -53.297858499642686,
+    "distance(meters)": 305.0301212456657,
+    "regions": [
+      {
+        "construção_percentage": 0.3275862068965517,
+        "construção_distance": 99.9236604080629
+      },
+      {
+        "vegetação esparsa_percentage": 0.017241379310344827,
+        "vegetação esparsa_distance": 5.259140021476995
+      },
+      {
+        "construção_percentage": 0.27586206896551724,
+        "construção_distance": 84.14624034363192
+      },
+      {
+        "pasto_percentage": 0.017241379310344827,
+        "pasto_distance": 5.259140021476995
+      },
+      {
+        "construção_percentage": 0.1896551724137931,
+        "construção_distance": 57.85054023624694
+      },
+      {
+        "pasto_percentage": 0.017241379310344827,
+        "pasto_distance": 5.259140021476995
+      },
+      {
+        "construção_percentage": 0.15517241379310345,
+        "construção_distance": 47.33226019329296
+      }
+    ]
+  },
+  {
+    "origem": "F1",
+    "destino": "G3",
+    "lat_origem": -24.80224313971169,
+    "lon_origem": -53.29943355567515,
+    "lat_destino": -24.805856989534437,
+    "lon_destino": -53.29978792575679,
+    "distance(meters)": 403.4311322018638,
+    "regions": [
+      {
+        "construção_percentage": 1.0,
+        "construção_distance": 403.4311322018638
+      }
+    ]
+  },
+  {
+    "origem": "A6",
+    "destino": "A1",
+    "lat_origem": -24.799902020012464,
+    "lon_origem": -53.297858499642686,
+    "lat_destino": -24.784088094684588,
+    "lon_destino": -53.29428440229077,
+    "distance(meters)": 1795.0629146986357,
+    "regions": [
+      {
+        "construção_percentage": 0.015706806282722512,
+        "construção_distance": 28.194705466470715
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.013089005235602094,
+        "árvores_distance": 23.4955878887256
+      },
+      {
+        "construção_percentage": 0.10209424083769633,
+        "construção_distance": 183.26558553205967
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.020942408376963352,
+        "árvores_distance": 37.59294062196096
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.002617801047120419,
+        "vegetação esparsa_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.09424083769633508,
+        "construção_distance": 169.1682327988243
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.010471204188481676,
+        "vegetação esparsa_distance": 18.79647031098048
+      },
+      {
+        "construção_percentage": 0.005235602094240838,
+        "construção_distance": 9.39823515549024
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.09162303664921466,
+        "construção_distance": 164.4691152210792
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "pasto_percentage": 0.002617801047120419,
+        "pasto_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.020942408376963352,
+        "construção_distance": 37.59294062196096
+      },
+      {
+        "vegetação esparsa_percentage": 0.005235602094240838,
+        "vegetação esparsa_distance": 9.39823515549024
+      },
+      {
+        "pasto_percentage": 0.002617801047120419,
+        "pasto_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.002617801047120419,
+        "vegetação esparsa_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.002617801047120419,
+        "vegetação esparsa_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.002617801047120419,
+        "vegetação esparsa_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.07853403141361257,
+        "construção_distance": 140.9735273323536
+      },
+      {
+        "pasto_percentage": 0.007853403141361256,
+        "pasto_distance": 14.097352733235358
+      },
+      {
+        "construção_percentage": 0.07591623036649214,
+        "construção_distance": 136.27440975460846
+      },
+      {
+        "vegetação esparsa_percentage": 0.007853403141361256,
+        "vegetação esparsa_distance": 14.097352733235358
+      },
+      {
+        "construção_percentage": 0.013089005235602094,
+        "construção_distance": 23.4955878887256
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.0968586387434555,
+        "construção_distance": 173.86735037656945
+      },
+      {
+        "árvores_percentage": 0.002617801047120419,
+        "árvores_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.013089005235602094,
+        "construção_distance": 23.4955878887256
+      },
+      {
+        "árvores_percentage": 0.010471204188481676,
+        "árvores_distance": 18.79647031098048
+      },
+      {
+        "construção_percentage": 0.041884816753926704,
+        "construção_distance": 75.18588124392193
+      },
+      {
+        "árvores_percentage": 0.005235602094240838,
+        "árvores_distance": 9.39823515549024
+      },
+      {
+        "pasto_percentage": 0.020942408376963352,
+        "pasto_distance": 37.59294062196096
+      },
+      {
+        "construção_percentage": 0.002617801047120419,
+        "construção_distance": 4.69911757774512
+      },
+      {
+        "vegetação esparsa_percentage": 0.002617801047120419,
+        "vegetação esparsa_distance": 4.69911757774512
+      },
+      {
+        "construção_percentage": 0.16230366492146597,
+        "construção_distance": 291.3452898201974
+      }
+    ]
+  },
+  {
+    "origem": "A6",
+    "destino": "A8",
+    "lat_origem": -24.799902020012464,
+    "lon_origem": -53.297858499642686,
+    "lat_destino": -24.79038839877705,
+    "lon_destino": -53.297831444040135,
+    "distance(meters)": 1057.8714020467514,
+    "regions": [
+      {
+        "árvores_percentage": 0.008695652173913044,
+        "árvores_distance": 9.198881756928273
+      },
+      {
+        "construção_percentage": 0.013043478260869565,
+        "construção_distance": 13.79832263539241
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.013043478260869565,
+        "árvores_distance": 13.79832263539241
+      },
+      {
+        "vegetação esparsa_percentage": 0.004347826086956522,
+        "vegetação esparsa_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.017391304347826087,
+        "construção_distance": 18.397763513856546
+      },
+      {
+        "árvores_percentage": 0.043478260869565216,
+        "árvores_distance": 45.994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.06086956521739131,
+        "construção_distance": 64.39217229849791
+      },
+      {
+        "árvores_percentage": 0.021739130434782608,
+        "árvores_distance": 22.997204392320683
+      },
+      {
+        "construção_percentage": 0.12173913043478261,
+        "construção_distance": 128.78434459699582
+      },
+      {
+        "árvores_percentage": 0.043478260869565216,
+        "árvores_distance": 45.994408784641365
+      },
+      {
+        "construção_percentage": 0.0391304347826087,
+        "construção_distance": 41.394967906177236
+      },
+      {
+        "árvores_percentage": 0.043478260869565216,
+        "árvores_distance": 45.994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.030434782608695653,
+        "construção_distance": 32.196086149248956
+      },
+      {
+        "vegetação esparsa_percentage": 0.004347826086956522,
+        "vegetação esparsa_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "vegetação esparsa_percentage": 0.004347826086956522,
+        "vegetação esparsa_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.15217391304347827,
+        "construção_distance": 160.9804307462448
+      },
+      {
+        "pasto_percentage": 0.017391304347826087,
+        "pasto_distance": 18.397763513856546
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.004347826086956522,
+        "construção_distance": 4.5994408784641365
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.017391304347826087,
+        "construção_distance": 18.397763513856546
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.013043478260869565,
+        "construção_distance": 13.79832263539241
+      },
+      {
+        "árvores_percentage": 0.004347826086956522,
+        "árvores_distance": 4.5994408784641365
+      },
+      {
+        "construção_percentage": 0.20869565217391303,
+        "construção_distance": 220.77316216627855
+      }
+    ]
+  },
+  {
+    "origem": "A6",
+    "destino": "G4",
+    "lat_origem": -24.799902020012464,
+    "lon_origem": -53.297858499642686,
+    "lat_destino": -24.786732155554272,
+    "lon_destino": -53.29550967939276,
+    "distance(meters)": 1483.4945795854314,
+    "regions": [
+      {
+        "construção_percentage": 0.018867924528301886,
+        "construção_distance": 27.990463765762858
+      },
+      {
+        "pasto_percentage": 0.015723270440251572,
+        "pasto_distance": 23.32538647146905
+      },
+      {
+        "construção_percentage": 0.1792452830188679,
+        "construção_distance": 265.90940577474714
+      },
+      {
+        "pasto_percentage": 0.0031446540880503146,
+        "pasto_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.0031446540880503146,
+        "construção_distance": 4.66507729429381
+      },
+      {
+        "pasto_percentage": 0.0220125786163522,
+        "pasto_distance": 32.65554106005666
+      },
+      {
+        "construção_percentage": 0.0440251572327044,
+        "construção_distance": 65.31108212011333
+      },
+      {
+        "árvores_percentage": 0.0031446540880503146,
+        "árvores_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.0031446540880503146,
+        "construção_distance": 4.66507729429381
+      },
+      {
+        "árvores_percentage": 0.0031446540880503146,
+        "árvores_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.1069182389937107,
+        "construção_distance": 158.61262800598954
+      },
+      {
+        "árvores_percentage": 0.025157232704402517,
+        "árvores_distance": 37.32061835435048
+      },
+      {
+        "construção_percentage": 0.012578616352201259,
+        "construção_distance": 18.66030917717524
+      },
+      {
+        "árvores_percentage": 0.0031446540880503146,
+        "árvores_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.025157232704402517,
+        "construção_distance": 37.32061835435048
+      },
+      {
+        "árvores_percentage": 0.02830188679245283,
+        "árvores_distance": 41.98569564864429
+      },
+      {
+        "construção_percentage": 0.0031446540880503146,
+        "construção_distance": 4.66507729429381
+      },
+      {
+        "árvores_percentage": 0.0031446540880503146,
+        "árvores_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.11320754716981132,
+        "construção_distance": 167.94278259457715
+      },
+      {
+        "pasto_percentage": 0.0031446540880503146,
+        "pasto_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.03459119496855346,
+        "construção_distance": 51.315850237231906
+      },
+      {
+        "árvores_percentage": 0.015723270440251572,
+        "árvores_distance": 23.32538647146905
+      },
+      {
+        "construção_percentage": 0.0031446540880503146,
+        "construção_distance": 4.66507729429381
+      },
+      {
+        "árvores_percentage": 0.018867924528301886,
+        "árvores_distance": 27.990463765762858
+      },
+      {
+        "construção_percentage": 0.015723270440251572,
+        "construção_distance": 23.32538647146905
+      },
+      {
+        "árvores_percentage": 0.0031446540880503146,
+        "árvores_distance": 4.66507729429381
+      },
+      {
+        "construção_percentage": 0.05660377358490566,
+        "construção_distance": 83.97139129728858
+      },
+      {
+        "pasto_percentage": 0.018867924528301886,
+        "pasto_distance": 27.990463765762858
+      },
+      {
+        "vegetação esparsa_percentage": 0.0031446540880503146,
+        "vegetação esparsa_distance": 4.66507729429381
+      },
+      {
+        "pasto_percentage": 0.0031446540880503146,
+        "pasto_distance": 4.66507729429381
+      },
+      {
+        "vegetação esparsa_percentage": 0.006289308176100629,
+        "vegetação esparsa_distance": 9.33015458858762
+      },
+      {
+        "construção_percentage": 0.20125786163522014,
+        "construção_distance": 298.56494683480383
+      }
+    ]
+  },
+  {
+    "origem": "A6",
+    "destino": "G5",
+    "lat_origem": -24.799902020012464,
+    "lon_origem": -53.297858499642686,
+    "lat_destino": -24.79553219555501,
+    "lon_destino": -53.292626099977554,
+    "distance(meters)": 717.6806043817855,
+    "regions": [
+      {
+        "construção_percentage": 0.12698412698412698,
+        "construção_distance": 91.13404500086165
+      },
+      {
+        "vegetação esparsa_percentage": 0.007936507936507936,
+        "vegetação esparsa_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.007936507936507936,
+        "construção_distance": 5.695877812553853
+      },
+      {
+        "vegetação esparsa_percentage": 0.007936507936507936,
+        "vegetação esparsa_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.05555555555555555,
+        "construção_distance": 39.87114468787697
+      },
+      {
+        "árvores_percentage": 0.007936507936507936,
+        "árvores_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.007936507936507936,
+        "construção_distance": 5.695877812553853
+      },
+      {
+        "árvores_percentage": 0.007936507936507936,
+        "árvores_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.007936507936507936,
+        "construção_distance": 5.695877812553853
+      },
+      {
+        "pasto_percentage": 0.007936507936507936,
+        "pasto_distance": 5.695877812553853
+      },
+      {
+        "vegetação esparsa_percentage": 0.015873015873015872,
+        "vegetação esparsa_distance": 11.391755625107706
+      },
+      {
+        "construção_percentage": 0.03968253968253968,
+        "construção_distance": 28.479389062769265
+      },
+      {
+        "pasto_percentage": 0.007936507936507936,
+        "pasto_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.007936507936507936,
+        "construção_distance": 5.695877812553853
+      },
+      {
+        "pasto_percentage": 0.007936507936507936,
+        "pasto_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.007936507936507936,
+        "construção_distance": 5.695877812553853
+      },
+      {
+        "pasto_percentage": 0.007936507936507936,
+        "pasto_distance": 5.695877812553853
+      },
+      {
+        "construção_percentage": 0.6587301587301587,
+        "construção_distance": 472.75785844196986
+      }
+    ]
+  },
+  {
+    "origem": "A6",
+    "destino": "A4",
+    "lat_origem": -24.799902020012464,
+    "lon_origem": -53.297858499642686,
+    "lat_destino": -24.838390149090422,
+    "lon_destino": -53.36046073898427,
+    "distance(meters)": 7631.144625276506,
+    "regions": [
+      {
+        "árvores_percentage": 0.0013280212483399733,
+        "árvores_distance": 10.134322211522584
+      },
+      {
+        "construção_percentage": 0.0013280212483399733,
+        "construção_distance": 10.134322211522584
+      },
+      {
+        "árvores_percentage": 0.0013280212483399733,
+        "árvores_distance": 10.134322211522584
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00199203187250996,
+        "árvores_distance": 15.201483317283877
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.00199203187250996,
+        "plantação_distance": 15.201483317283877
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.00199203187250996,
+        "plantação_distance": 15.201483317283877
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.049800796812749,
+        "plantação_distance": 380.0370829320969
+      },
+      {
+        "árvores_percentage": 0.017928286852589643,
+        "árvores_distance": 136.81334985555492
+      },
+      {
+        "pasto_percentage": 0.0013280212483399733,
+        "pasto_distance": 10.134322211522584
+      },
+      {
+        "árvores_percentage": 0.0013280212483399733,
+        "árvores_distance": 10.134322211522584
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00199203187250996,
+        "árvores_distance": 15.201483317283877
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.01195219123505976,
+        "pasto_distance": 91.20889990370326
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.025896414342629483,
+        "árvores_distance": 197.6192831246904
+      },
+      {
+        "plantação_percentage": 0.005312084993359893,
+        "plantação_distance": 40.537288846090334
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00398406374501992,
+        "árvores_distance": 30.402966634567754
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.009296148738379814,
+        "pasto_distance": 70.9402554806581
+      },
+      {
+        "árvores_percentage": 0.01195219123505976,
+        "árvores_distance": 91.20889990370326
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00199203187250996,
+        "árvores_distance": 15.201483317283877
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.16865869853917662,
+        "plantação_distance": 1287.0589208633683
+      },
+      {
+        "árvores_percentage": 0.03718459495351926,
+        "árvores_distance": 283.7610219226324
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.20119521912350596,
+        "plantação_distance": 1535.3498150456714
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.0033200531208499337,
+        "plantação_distance": 25.335805528806464
+      },
+      {
+        "árvores_percentage": 0.023240371845949535,
+        "árvores_distance": 177.35063870164524
+      },
+      {
+        "plantação_percentage": 0.21381142098273573,
+        "plantação_distance": 1631.6258760551361
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.0013280212483399733,
+        "plantação_distance": 10.134322211522584
+      },
+      {
+        "pasto_percentage": 0.00199203187250996,
+        "pasto_distance": 15.201483317283877
+      },
+      {
+        "construção_percentage": 0.01859229747675963,
+        "construção_distance": 141.8805109613162
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "vegetação esparsa_percentage": 0.0026560424966799467,
+        "vegetação esparsa_distance": 20.268644423045167
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0013280212483399733,
+        "pasto_distance": 10.134322211522584
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.021248339973439574,
+        "plantação_distance": 162.14915538436134
+      },
+      {
+        "árvores_percentage": 0.021248339973439574,
+        "árvores_distance": 162.14915538436134
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "plantação_percentage": 0.0006640106241699867,
+        "plantação_distance": 5.067161105761292
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.029216467463479414,
+        "árvores_distance": 222.95508865349686
+      },
+      {
+        "pasto_percentage": 0.009296148738379814,
+        "pasto_distance": 70.9402554806581
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00199203187250996,
+        "árvores_distance": 15.201483317283877
+      },
+      {
+        "plantação_percentage": 0.004648074369189907,
+        "plantação_distance": 35.47012774032905
+      },
+      {
+        "construção_percentage": 0.010624169986719787,
+        "construção_distance": 81.07457769218067
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "pasto_percentage": 0.0006640106241699867,
+        "pasto_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.00199203187250996,
+        "árvores_distance": 15.201483317283877
+      },
+      {
+        "construção_percentage": 0.0006640106241699867,
+        "construção_distance": 5.067161105761292
+      },
+      {
+        "árvores_percentage": 0.0006640106241699867,
+        "árvores_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.0073041168658698535,
+        "construção_distance": 55.738772163374215
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.024568393094289508,
+        "construção_distance": 187.4849609131678
+      },
+      {
+        "vegetação esparsa_percentage": 0.0006640106241699867,
+        "vegetação esparsa_distance": 5.067161105761292
+      },
+      {
+        "construção_percentage": 0.00398406374501992,
+        "construção_distance": 30.402966634567754
+      }
+    ]
+  },
+  {
+    "origem": "A1",
+    "destino": "A7",
+    "lat_origem": -24.784088094684588,
+    "lon_origem": -53.29428440229077,
+    "lat_destino": -24.783428435366922,
+    "lon_destino": -53.29550819171179,
+    "distance(meters)": 143.68003870347187,
+    "regions": [
+      {
+        "árvores_percentage": 0.0625,
+        "árvores_distance": 8.980002418966992
+      },
+      {
+        "construção_percentage": 0.09375,
+        "construção_distance": 13.470003628450488
+      },
+      {
+        "árvores_percentage": 0.03125,
+        "árvores_distance": 4.490001209483496
+      },
+      {
+        "construção_percentage": 0.03125,
+        "construção_distance": 4.490001209483496
+      },
+      {
+        "árvores_percentage": 0.125,
+        "árvores_distance": 17.960004837933983
+      },
+      {
+        "plantação_percentage": 0.03125,
+        "plantação_distance": 4.490001209483496
+      },
+      {
+        "árvores_percentage": 0.03125,
+        "árvores_distance": 4.490001209483496
+      },
+      {
+        "construção_percentage": 0.03125,
+        "construção_distance": 4.490001209483496
+      },
+      {
+        "vegetação esparsa_percentage": 0.03125,
+        "vegetação esparsa_distance": 4.490001209483496
+      },
+      {
+        "construção_percentage": 0.03125,
+        "construção_distance": 4.490001209483496
+      },
+      {
+        "vegetação esparsa_percentage": 0.03125,
+        "vegetação esparsa_distance": 4.490001209483496
+      },
+      {
+        "construção_percentage": 0.09375,
+        "construção_distance": 13.470003628450488
+      },
+      {
+        "vegetação esparsa_percentage": 0.03125,
+        "vegetação esparsa_distance": 4.490001209483496
+      },
+      {
+        "construção_percentage": 0.03125,
+        "construção_distance": 4.490001209483496
+      },
+      {
+        "vegetação esparsa_percentage": 0.1875,
+        "vegetação esparsa_distance": 26.940007256900977
+      },
+      {
+        "plantação_percentage": 0.09375,
+        "plantação_distance": 13.470003628450488
+      },
+      {
+        "construção_percentage": 0.03125,
+        "construção_distance": 4.490001209483496
+      }
+    ]
+  },
+  {
+    "origem": "A8",
+    "destino": "G2",
+    "lat_origem": -24.79038839877705,
+    "lon_origem": -53.297831444040135,
+    "lat_destino": -24.792086567225205,
+    "lon_destino": -53.30421087710291,
+    "distance(meters)": 671.1009549939962,
+    "regions": [
+      {
+        "vegetação esparsa_percentage": 0.01282051282051282,
+        "vegetação esparsa_distance": 8.603858397358925
+      },
+      {
+        "árvores_percentage": 0.01282051282051282,
+        "árvores_distance": 8.603858397358925
+      },
+      {
+        "plantação_percentage": 0.00641025641025641,
+        "plantação_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.02564102564102564,
+        "vegetação esparsa_distance": 17.20771679471785
+      },
+      {
+        "plantação_percentage": 0.00641025641025641,
+        "plantação_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.02564102564102564,
+        "vegetação esparsa_distance": 17.20771679471785
+      },
+      {
+        "pasto_percentage": 0.11538461538461539,
+        "pasto_distance": 77.43472557623033
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.07051282051282051,
+        "árvores_distance": 47.32122118547409
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.08333333333333333,
+        "construção_distance": 55.925079582833014
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.01282051282051282,
+        "construção_distance": 8.603858397358925
+      },
+      {
+        "árvores_percentage": 0.07051282051282051,
+        "árvores_distance": 47.32122118547409
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.04487179487179487,
+        "vegetação esparsa_distance": 30.11350439075624
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.019230769230769232,
+        "construção_distance": 12.905787596038389
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "pasto_percentage": 0.00641025641025641,
+        "pasto_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.04487179487179487,
+        "construção_distance": 30.11350439075624
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.019230769230769232,
+        "árvores_distance": 12.905787596038389
+      },
+      {
+        "vegetação esparsa_percentage": 0.019230769230769232,
+        "vegetação esparsa_distance": 12.905787596038389
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.05128205128205128,
+        "árvores_distance": 34.4154335894357
+      },
+      {
+        "construção_percentage": 0.1282051282051282,
+        "construção_distance": 86.03858397358925
+      },
+      {
+        "vegetação esparsa_percentage": 0.00641025641025641,
+        "vegetação esparsa_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      },
+      {
+        "árvores_percentage": 0.00641025641025641,
+        "árvores_distance": 4.3019291986794626
+      },
+      {
+        "construção_percentage": 0.00641025641025641,
+        "construção_distance": 4.3019291986794626
+      }
+    ]
+  },
+  {
+    "origem": "G4",
+    "destino": "A2",
+    "lat_origem": -24.786732155554272,
+    "lon_origem": -53.29550967939276,
+    "lat_destino": -24.731995417678156,
+    "lon_destino": -53.2538234116382,
+    "distance(meters)": 7400.15939161469,
+    "regions": [
+      {
+        "plantação_percentage": 0.001519756838905775,
+        "plantação_distance": 11.246442844399226
+      },
+      {
+        "construção_percentage": 0.001519756838905775,
+        "construção_distance": 11.246442844399226
+      },
+      {
+        "plantação_percentage": 0.00303951367781155,
+        "plantação_distance": 22.492885688798452
+      },
+      {
+        "vegetação esparsa_percentage": 0.001519756838905775,
+        "vegetação esparsa_distance": 11.246442844399226
+      },
+      {
+        "pasto_percentage": 0.0022796352583586625,
+        "pasto_distance": 16.869664266598836
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.013677811550151976,
+        "construção_distance": 101.21798559959304
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.3290273556231003,
+        "plantação_distance": 2434.8548758124325
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0060790273556231,
+        "árvores_distance": 44.985771377596905
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.016717325227963525,
+        "plantação_distance": 123.71087128839147
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.001519756838905775,
+        "árvores_distance": 11.246442844399226
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0182370820668693,
+        "plantação_distance": 134.95731413279069
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.015197568389057751,
+        "árvores_distance": 112.46442844399226
+      },
+      {
+        "pasto_percentage": 0.001519756838905775,
+        "pasto_distance": 11.246442844399226
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.08054711246200608,
+        "plantação_distance": 596.0614707531589
+      },
+      {
+        "árvores_percentage": 0.007598784194528876,
+        "árvores_distance": 56.23221422199613
+      },
+      {
+        "plantação_percentage": 0.10106382978723404,
+        "plantação_distance": 747.8884491525484
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.1838905775075988,
+        "plantação_distance": 1360.8195841723063
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.012917933130699088,
+        "plantação_distance": 95.59476417739342
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0668693009118541,
+        "plantação_distance": 494.8434851535659
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.00303951367781155,
+        "vegetação esparsa_distance": 22.492885688798452
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007598784194528875,
+        "vegetação esparsa_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.001519756838905775,
+        "construção_distance": 11.246442844399226
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.00303951367781155,
+        "pasto_distance": 22.492885688798452
+      },
+      {
+        "construção_percentage": 0.005319148936170213,
+        "construção_distance": 39.36254995539729
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.016717325227963525,
+        "construção_distance": 123.71087128839147
+      },
+      {
+        "árvores_percentage": 0.004559270516717325,
+        "árvores_distance": 33.73932853319767
+      },
+      {
+        "plantação_percentage": 0.001519756838905775,
+        "plantação_distance": 11.246442844399226
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "plantação_percentage": 0.0007598784194528875,
+        "plantação_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.001519756838905775,
+        "pasto_distance": 11.246442844399226
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "pasto_percentage": 0.0007598784194528875,
+        "pasto_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.00303951367781155,
+        "árvores_distance": 22.492885688798452
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.001519756838905775,
+        "árvores_distance": 11.246442844399226
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.009878419452887538,
+        "construção_distance": 73.10187848859496
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.018996960486322188,
+        "construção_distance": 140.58053555499032
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.005319148936170213,
+        "construção_distance": 39.36254995539729
+      },
+      {
+        "árvores_percentage": 0.007598784194528876,
+        "árvores_distance": 56.23221422199613
+      },
+      {
+        "construção_percentage": 0.0007598784194528875,
+        "construção_distance": 5.623221422199613
+      },
+      {
+        "árvores_percentage": 0.0007598784194528875,
+        "árvores_distance": 5.623221422199613
+      },
+      {
+        "construção_percentage": 0.00303951367781155,
+        "construção_distance": 22.492885688798452
+      }
+    ]
+  },
+  {
+    "origem": "G4",
+    "destino": "A3",
+    "lat_origem": -24.786732155554272,
+    "lon_origem": -53.29550967939276,
+    "lat_destino": -24.73176933125082,
+    "lon_destino": -53.256250671267004,
+    "distance(meters)": 7284.631324444218,
+    "regions": [
+      {
+        "plantação_percentage": 0.0015128593040847202,
+        "plantação_distance": 11.020622276012434
+      },
+      {
+        "construção_percentage": 0.0015128593040847202,
+        "construção_distance": 11.020622276012434
+      },
+      {
+        "plantação_percentage": 0.197428139183056,
+        "plantação_distance": 1438.1912070196227
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.00529500756429652,
+        "construção_distance": 38.57217796604351
+      },
+      {
+        "vegetação esparsa_percentage": 0.0015128593040847202,
+        "vegetação esparsa_distance": 11.020622276012434
+      },
+      {
+        "plantação_percentage": 0.1059001512859304,
+        "plantação_distance": 771.4435593208702
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.030257186081694403,
+        "árvores_distance": 220.41244552024867
+      },
+      {
+        "plantação_percentage": 0.0226928895612708,
+        "plantação_distance": 165.30933414018648
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0015128593040847202,
+        "plantação_distance": 11.020622276012434
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.03177004538577912,
+        "plantação_distance": 231.43306779626107
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.01361573373676248,
+        "árvores_distance": 99.18560048411189
+      },
+      {
+        "plantação_percentage": 0.09228441754916793,
+        "plantação_distance": 672.2579588367583
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.007564296520423601,
+        "árvores_distance": 55.10311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.2813918305597579,
+        "plantação_distance": 2049.835743338312
+      },
+      {
+        "pasto_percentage": 0.0015128593040847202,
+        "pasto_distance": 11.020622276012434
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.030257186081694403,
+        "plantação_distance": 220.41244552024867
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.040090771558245086,
+        "plantação_distance": 292.0464903143295
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0022692889561270802,
+        "plantação_distance": 16.530933414018648
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0045385779122541605,
+        "vegetação esparsa_distance": 33.061866828037296
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0015128593040847202,
+        "construção_distance": 11.020622276012434
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0045385779122541605,
+        "pasto_distance": 33.061866828037296
+      },
+      {
+        "construção_percentage": 0.0030257186081694403,
+        "construção_distance": 22.041244552024867
+      },
+      {
+        "vegetação esparsa_percentage": 0.0015128593040847202,
+        "vegetação esparsa_distance": 11.020622276012434
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.019667170953101363,
+        "construção_distance": 143.26808958816164
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0045385779122541605,
+        "árvores_distance": 33.061866828037296
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007564296520423601,
+        "vegetação esparsa_distance": 5.510311138006217
+      },
+      {
+        "plantação_percentage": 0.0007564296520423601,
+        "plantação_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0015128593040847202,
+        "construção_distance": 11.020622276012434
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "pasto_percentage": 0.0007564296520423601,
+        "pasto_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0045385779122541605,
+        "árvores_distance": 33.061866828037296
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0022692889561270802,
+        "construção_distance": 16.530933414018648
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.00680786686838124,
+        "construção_distance": 49.592800242055944
+      },
+      {
+        "árvores_percentage": 0.0015128593040847202,
+        "árvores_distance": 11.020622276012434
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0030257186081694403,
+        "árvores_distance": 22.041244552024867
+      },
+      {
+        "construção_percentage": 0.018154311649016642,
+        "construção_distance": 132.24746731214918
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0007564296520423601,
+        "construção_distance": 5.510311138006217
+      },
+      {
+        "árvores_percentage": 0.0007564296520423601,
+        "árvores_distance": 5.510311138006217
+      },
+      {
+        "construção_percentage": 0.0037821482602118004,
+        "construção_distance": 27.551555690031083
+      },
+      {
+        "árvores_percentage": 0.007564296520423601,
+        "árvores_distance": 55.10311138006217
+      },
+      {
+        "construção_percentage": 0.0045385779122541605,
+        "construção_distance": 33.061866828037296
+      }
+    ]
+  },
+  {
+    "origem": "G4",
+    "destino": "R1",
+    "lat_origem": -24.786732155554272,
+    "lon_origem": -53.29550967939276,
+    "lat_destino": -24.731342604971623,
+    "lon_destino": -53.25701387793666,
+    "distance(meters)": 7283.069757308045,
+    "regions": [
+      {
+        "plantação_percentage": 0.0015015015015015015,
+        "plantação_distance": 10.935540176138206
+      },
+      {
+        "construção_percentage": 0.0015015015015015015,
+        "construção_distance": 10.935540176138206
+      },
+      {
+        "plantação_percentage": 0.0075075075075075074,
+        "plantação_distance": 54.67770088069103
+      },
+      {
+        "vegetação esparsa_percentage": 0.003003003003003003,
+        "vegetação esparsa_distance": 21.87108035227641
+      },
+      {
+        "plantação_percentage": 0.1996996996996997,
+        "plantação_distance": 1454.4268434263813
+      },
+      {
+        "pasto_percentage": 0.0015015015015015015,
+        "pasto_distance": 10.935540176138206
+      },
+      {
+        "construção_percentage": 0.0022522522522522522,
+        "construção_distance": 16.40331026420731
+      },
+      {
+        "pasto_percentage": 0.003003003003003003,
+        "pasto_distance": 21.87108035227641
+      },
+      {
+        "plantação_percentage": 0.09384384384384384,
+        "plantação_distance": 683.4712610086378
+      },
+      {
+        "árvores_percentage": 0.04054054054054054,
+        "árvores_distance": 295.25958475573157
+      },
+      {
+        "plantação_percentage": 0.009009009009009009,
+        "plantação_distance": 65.61324105682924
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0015015015015015015,
+        "árvores_distance": 10.935540176138206
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.036036036036036036,
+        "plantação_distance": 262.45296422731695
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.013513513513513514,
+        "árvores_distance": 98.41986158524386
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.0960960960960961,
+        "plantação_distance": 699.8745712728452
+      },
+      {
+        "árvores_percentage": 0.009009009009009009,
+        "árvores_distance": 65.61324105682924
+      },
+      {
+        "plantação_percentage": 0.2807807807807808,
+        "plantação_distance": 2044.9460129378444
+      },
+      {
+        "pasto_percentage": 0.0007507507507507507,
+        "pasto_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "pasto_percentage": 0.0015015015015015015,
+        "pasto_distance": 10.935540176138206
+      },
+      {
+        "plantação_percentage": 0.03153153153153153,
+        "plantação_distance": 229.6463436989023
+      },
+      {
+        "vegetação esparsa_percentage": 0.006006006006006006,
+        "vegetação esparsa_distance": 43.74216070455282
+      },
+      {
+        "plantação_percentage": 0.03453453453453453,
+        "plantação_distance": 251.51742405117872
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007507507507507507,
+        "vegetação esparsa_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.005255255255255256,
+        "construção_distance": 38.27439061648372
+      },
+      {
+        "vegetação esparsa_percentage": 0.0037537537537537537,
+        "vegetação esparsa_distance": 27.338850440345514
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007507507507507507,
+        "vegetação esparsa_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "plantação_percentage": 0.0007507507507507507,
+        "plantação_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.003003003003003003,
+        "construção_distance": 21.87108035227641
+      },
+      {
+        "pasto_percentage": 0.003003003003003003,
+        "pasto_distance": 21.87108035227641
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "pasto_percentage": 0.0007507507507507507,
+        "pasto_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "pasto_percentage": 0.0007507507507507507,
+        "pasto_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "pasto_percentage": 0.0007507507507507507,
+        "pasto_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0022522522522522522,
+        "construção_distance": 16.40331026420731
+      },
+      {
+        "pasto_percentage": 0.0007507507507507507,
+        "pasto_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007507507507507507,
+        "vegetação esparsa_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.012012012012012012,
+        "construção_distance": 87.48432140910565
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0022522522522522522,
+        "construção_distance": 16.40331026420731
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0022522522522522522,
+        "construção_distance": 16.40331026420731
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.006006006006006006,
+        "árvores_distance": 43.74216070455282
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "vegetação esparsa_percentage": 0.0007507507507507507,
+        "vegetação esparsa_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0045045045045045045,
+        "árvores_distance": 32.80662052841462
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.012762762762762763,
+        "construção_distance": 92.95209149717475
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0037537537537537537,
+        "árvores_distance": 27.338850440345514
+      },
+      {
+        "construção_percentage": 0.018018018018018018,
+        "construção_distance": 131.22648211365848
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0007507507507507507,
+        "construção_distance": 5.467770088069103
+      },
+      {
+        "árvores_percentage": 0.0007507507507507507,
+        "árvores_distance": 5.467770088069103
+      },
+      {
+        "construção_percentage": 0.0037537537537537537,
+        "construção_distance": 27.338850440345514
+      },
+      {
+        "árvores_percentage": 0.0075075075075075074,
+        "árvores_distance": 54.67770088069103
+      },
+      {
+        "construção_percentage": 0.0045045045045045045,
+        "construção_distance": 32.80662052841462
+      }
+    ]
+  },
+  {
+    "origem": "R1",
+    "destino": "G6",
+    "lat_origem": -24.731342604971623,
+    "lon_origem": -53.25701387793666,
+    "lat_destino": -24.72029896890727,
+    "lon_destino": -53.248256243808115,
+    "distance(meters)": 1513.3959322606856,
+    "regions": [
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.007518796992481203,
+        "plantação_distance": 11.37891678391493
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.07518796992481203,
+        "construção_distance": 113.78916783914929
+      },
+      {
+        "vegetação esparsa_percentage": 0.0037593984962406013,
+        "vegetação esparsa_distance": 5.689458391957465
+      },
+      {
+        "pasto_percentage": 0.0037593984962406013,
+        "pasto_distance": 5.689458391957465
+      },
+      {
+        "vegetação esparsa_percentage": 0.007518796992481203,
+        "vegetação esparsa_distance": 11.37891678391493
+      },
+      {
+        "construção_percentage": 0.03007518796992481,
+        "construção_distance": 45.51566713565972
+      },
+      {
+        "vegetação esparsa_percentage": 0.0037593984962406013,
+        "vegetação esparsa_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.05263157894736842,
+        "árvores_distance": 79.6524174874045
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.007518796992481203,
+        "árvores_distance": 11.37891678391493
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.022556390977443608,
+        "construção_distance": 34.13675035174479
+      },
+      {
+        "árvores_percentage": 0.06015037593984962,
+        "árvores_distance": 91.03133427131944
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "vegetação esparsa_percentage": 0.015037593984962405,
+        "vegetação esparsa_distance": 22.75783356782986
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "construção_percentage": 0.0037593984962406013,
+        "construção_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.17293233082706766,
+        "plantação_distance": 261.7150860300434
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.0037593984962406013,
+        "árvores_distance": 5.689458391957465
+      },
+      {
+        "plantação_percentage": 0.0037593984962406013,
+        "plantação_distance": 5.689458391957465
+      },
+      {
+        "árvores_percentage": 0.06766917293233082,
+        "árvores_distance": 102.41025105523435
+      },
+      {
+        "plantação_percentage": 0.39097744360902253,
+        "plantação_distance": 591.7036727635763
+      }
+    ]
+  },
+  {
+    "origem": "G5",
+    "destino": "R2",
+    "lat_origem": -24.79553219555501,
+    "lon_origem": -53.292626099977554,
+    "lat_destino": -24.814039321945387,
+    "lon_destino": -53.27294954403108,
+    "distance(meters)": 2859.979380833355,
+    "regions": [
+      {
+        "construção_percentage": 0.004201680672268907,
+        "construção_distance": 12.016720087535106
+      },
+      {
+        "árvores_percentage": 0.004201680672268907,
+        "árvores_distance": 12.016720087535106
+      },
+      {
+        "construção_percentage": 0.07773109243697479,
+        "construção_distance": 222.30932161939947
+      },
+      {
+        "árvores_percentage": 0.0021008403361344537,
+        "árvores_distance": 6.008360043767553
+      },
+      {
+        "construção_percentage": 0.01680672268907563,
+        "construção_distance": 48.06688035014042
+      },
+      {
+        "vegetação esparsa_percentage": 0.0021008403361344537,
+        "vegetação esparsa_distance": 6.008360043767553
+      },
+      {
+        "construção_percentage": 0.0021008403361344537,
+        "construção_distance": 6.008360043767553
+      },
+      {
+        "árvores_percentage": 0.0021008403361344537,
+        "árvores_distance": 6.008360043767553
+      },
+      {
+        "construção_percentage": 0.0063025210084033615,
+        "construção_distance": 18.02508013130266
+      },
+      {
+        "árvores_percentage": 0.0063025210084033615,
+        "árvores_distance": 18.02508013130266
+      },
+      {
+        "construção_percentage": 0.05672268907563025,
+        "construção_distance": 162.22572118172394
+      },
+      {
+        "pasto_percentage": 0.0021008403361344537,
+        "pasto_distance": 6.008360043767553
+      },
+      {
+        "construção_percentage": 0.09873949579831932,
+        "construção_distance": 282.392922057075
+      },
+      {
+        "vegetação esparsa_percentage": 0.01680672268907563,
+        "vegetação esparsa_distance": 48.06688035014042
+      },
+      {
+        "plantação_percentage": 0.004201680672268907,
+        "plantação_distance": 12.016720087535106
+      },
+      {
+        "árvores_percentage": 0.0021008403361344537,
+        "árvores_distance": 6.008360043767553
+      },
+      {
+        "plantação_percentage": 0.14705882352941177,
+        "plantação_distance": 420.5852030637287
+      },
+      {
+        "árvores_percentage": 0.06302521008403361,
+        "árvores_distance": 180.25080131302659
+      },
+      {
+        "plantação_percentage": 0.014705882352941176,
+        "plantação_distance": 42.05852030637287
+      },
+      {
+        "árvores_percentage": 0.07563025210084033,
+        "árvores_distance": 216.3009615756319
+      },
+      {
+        "plantação_percentage": 0.36764705882352944,
+        "plantação_distance": 1051.4630076593219
+      },
+      {
+        "árvores_percentage": 0.0273109243697479,
+        "árvores_distance": 78.10868056897819
+      }
+    ]
+  },
+  {
+    "origem": "R2",
+    "destino": "G7",
+    "lat_origem": -24.814039321945387,
+    "lon_origem": -53.27294954403108,
+    "lat_destino": -24.831044060692,
+    "lon_destino": -53.24618742576377,
+    "distance(meters)": 3296.9805479712177,
+    "regions": [
+      {
+        "árvores_percentage": 0.003105590062111801,
+        "árvores_distance": 10.239070024755334
+      },
+      {
+        "plantação_percentage": 0.003105590062111801,
+        "plantação_distance": 10.239070024755334
+      },
+      {
+        "árvores_percentage": 0.0015527950310559005,
+        "árvores_distance": 5.119535012377667
+      },
+      {
+        "construção_percentage": 0.0015527950310559005,
+        "construção_distance": 5.119535012377667
+      },
+      {
+        "plantação_percentage": 0.021739130434782608,
+        "plantação_distance": 71.67349017328733
+      },
+      {
+        "vegetação esparsa_percentage": 0.0015527950310559005,
+        "vegetação esparsa_distance": 5.119535012377667
+      },
+      {
+        "plantação_percentage": 0.16925465838509315,
+        "plantação_distance": 558.0293163491657
+      },
+      {
+        "árvores_percentage": 0.024844720496894408,
+        "árvores_distance": 81.91256019804267
+      },
+      {
+        "plantação_percentage": 0.15062111801242237,
+        "plantação_distance": 496.59489620063374
+      },
+      {
+        "árvores_percentage": 0.17391304347826086,
+        "árvores_distance": 573.3879213862987
+      },
+      {
+        "plantação_percentage": 0.2111801242236025,
+        "plantação_distance": 696.2567616833628
+      },
+      {
+        "árvores_percentage": 0.046583850931677016,
+        "árvores_distance": 153.58605037133
+      },
+      {
+        "plantação_percentage": 0.0015527950310559005,
+        "plantação_distance": 5.119535012377667
+      },
+      {
+        "árvores_percentage": 0.0015527950310559005,
+        "árvores_distance": 5.119535012377667
+      },
+      {
+        "plantação_percentage": 0.09472049689440994,
+        "plantação_distance": 312.2916357550377
+      },
+      {
+        "árvores_percentage": 0.03571428571428571,
+        "árvores_distance": 117.74930528468634
+      },
+      {
+        "pasto_percentage": 0.004658385093167702,
+        "pasto_distance": 15.358605037133001
+      },
+      {
+        "árvores_percentage": 0.0015527950310559005,
+        "árvores_distance": 5.119535012377667
+      },
+      {
+        "plantação_percentage": 0.05124223602484472,
+        "plantação_distance": 168.944655408463
+      }
+    ]
+  },
+  {
+    "origem": "A7",
+    "destino": "R3",
+    "lat_origem": -24.783428435366922,
+    "lon_origem": -53.29550819171179,
+    "lat_destino": -24.77770321771029,
+    "lon_destino": -53.294483344044906,
+    "distance(meters)": 644.9689360843314,
+    "regions": [
+      {
+        "plantação_percentage": 0.014285714285714285,
+        "plantação_distance": 9.213841944061876
+      },
+      {
+        "árvores_percentage": 0.014285714285714285,
+        "árvores_distance": 9.213841944061876
+      },
+      {
+        "plantação_percentage": 0.04285714285714286,
+        "plantação_distance": 27.641525832185632
+      },
+      {
+        "vegetação esparsa_percentage": 0.11428571428571428,
+        "vegetação esparsa_distance": 73.71073555249501
+      },
+      {
+        "construção_percentage": 0.2571428571428571,
+        "construção_distance": 165.84915499311379
+      },
+      {
+        "vegetação esparsa_percentage": 0.05714285714285714,
+        "vegetação esparsa_distance": 36.855367776247505
+      },
+      {
+        "construção_percentage": 0.17857142857142858,
+        "construção_distance": 115.17302430077346
+      },
+      {
+        "pasto_percentage": 0.007142857142857143,
+        "pasto_distance": 4.606920972030938
+      },
+      {
+        "vegetação esparsa_percentage": 0.007142857142857143,
+        "vegetação esparsa_distance": 4.606920972030938
+      },
+      {
+        "pasto_percentage": 0.20714285714285716,
+        "pasto_distance": 133.60070818889722
+      },
+      {
+        "vegetação esparsa_percentage": 0.007142857142857143,
+        "vegetação esparsa_distance": 4.606920972030938
+      },
+      {
+        "pasto_percentage": 0.007142857142857143,
+        "pasto_distance": 4.606920972030938
+      },
+      {
+        "vegetação esparsa_percentage": 0.04285714285714286,
+        "vegetação esparsa_distance": 27.641525832185632
+      },
+      {
+        "construção_percentage": 0.007142857142857143,
+        "construção_distance": 4.606920972030938
+      },
+      {
+        "vegetação esparsa_percentage": 0.007142857142857143,
+        "vegetação esparsa_distance": 4.606920972030938
+      },
+      {
+        "construção_percentage": 0.02857142857142857,
+        "construção_distance": 18.427683888123752
+      }
+    ]
+  },
+  {
+    "origem": "R3",
+    "destino": "A5",
+    "lat_origem": -24.77770321771029,
+    "lon_origem": -53.294483344044906,
+    "lat_destino": -24.76515242798833,
+    "lon_destino": -53.29355067410104,
+    "distance(meters)": 1398.759331438615,
+    "regions": [
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.006622516556291391,
+        "plantação_distance": 9.263306830719305
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.009933774834437087,
+        "construção_distance": 13.894960246078957
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.10264900662251655,
+        "construção_distance": 143.5812558761492
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.023178807947019868,
+        "construção_distance": 32.42157390751756
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.10596026490066225,
+        "árvores_distance": 148.21290929150888
+      },
+      {
+        "pasto_percentage": 0.03642384105960265,
+        "pasto_distance": 50.94818756895617
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.009933774834437087,
+        "árvores_distance": 13.894960246078957
+      },
+      {
+        "pasto_percentage": 0.0033112582781456954,
+        "pasto_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.04304635761589404,
+        "árvores_distance": 60.21149439967547
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.04304635761589404,
+        "construção_distance": 60.21149439967547
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "construção_percentage": 0.0033112582781456954,
+        "construção_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.11920529801324503,
+        "árvores_distance": 166.73952295294748
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.009933774834437087,
+        "árvores_distance": 13.894960246078957
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.006622516556291391,
+        "plantação_distance": 9.263306830719305
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.0033112582781456954,
+        "árvores_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.009933774834437087,
+        "vegetação esparsa_distance": 13.894960246078957
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "vegetação esparsa_percentage": 0.0033112582781456954,
+        "vegetação esparsa_distance": 4.6316534153596525
+      },
+      {
+        "plantação_percentage": 0.0033112582781456954,
+        "plantação_distance": 4.6316534153596525
+      },
+      {
+        "árvores_percentage": 0.033112582781456956,
+        "árvores_distance": 46.31653415359652
+      },
+      {
+        "plantação_percentage": 0.08940397350993377,
+        "plantação_distance": 125.05464221471061
+      },
+      {
+        "vegetação esparsa_percentage": 0.046357615894039736,
+        "vegetação esparsa_distance": 64.84314781503512
+      },
+      {
+        "plantação_percentage": 0.052980132450331126,
+        "plantação_distance": 74.10645464575444
+      }
+    ]
+  },
+  {
+    "origem": "A4",
+    "destino": "G1",
+    "lat_origem": -24.838390149090422,
+    "lon_origem": -53.36046073898427,
+    "lat_destino": -24.839113383514253,
+    "lon_destino": -53.33742707570023,
+    "distance(meters)": 2325.690643259355,
+    "regions": [
+      {
+        "árvores_percentage": 0.36330935251798563,
+        "árvores_distance": 844.9451617596937
+      },
+      {
+        "plantação_percentage": 0.0017985611510791368,
+        "plantação_distance": 4.182896840394524
+      },
+      {
+        "árvores_percentage": 0.0017985611510791368,
+        "árvores_distance": 4.182896840394524
+      },
+      {
+        "plantação_percentage": 0.0017985611510791368,
+        "plantação_distance": 4.182896840394524
+      },
+      {
+        "árvores_percentage": 0.0017985611510791368,
+        "árvores_distance": 4.182896840394524
+      },
+      {
+        "plantação_percentage": 0.5863309352517986,
+        "plantação_distance": 1363.6243699686147
+      },
+      {
+        "árvores_percentage": 0.0017985611510791368,
+        "árvores_distance": 4.182896840394524
+      },
+      {
+        "plantação_percentage": 0.0017985611510791368,
+        "plantação_distance": 4.182896840394524
+      },
+      {
+        "árvores_percentage": 0.0017985611510791368,
+        "árvores_distance": 4.182896840394524
+      },
+      {
+        "plantação_percentage": 0.0017985611510791368,
+        "plantação_distance": 4.182896840394524
+      },
+      {
+        "árvores_percentage": 0.0017985611510791368,
+        "árvores_distance": 4.182896840394524
+      },
+      {
+        "plantação_percentage": 0.0017985611510791368,
+        "plantação_distance": 4.182896840394524
+      },
+      {
+        "árvores_percentage": 0.03237410071942446,
+        "árvores_distance": 75.29214312710143
+      }
+    ]
+  }
+]
