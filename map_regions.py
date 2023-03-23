@@ -47,9 +47,9 @@ def get_pixels_between_coords(img, lat1, lon1, lat2, lon2):
 
     return pixels
 
-def cropImage(lat1, lon1, lat2, lon2):
-    crop_img = img.crop((lon1, lat1, lon2, lat2))
-    return crop_img
+# def cropImage(lat1, lon1, lat2, lon2):
+#     crop_img = img.crop((lon1, lat1, lon2, lat2))
+#     return crop_img
 
 def compare_pixel_colors(pixel):
     if(pixel == color_mapping["tree_cover"]):
@@ -89,6 +89,18 @@ def create_dict_from_csv(df):
         coords.append(info)
 
     return coords
+
+def create_dict(name_org, name_dest, lat_org, lon_org, lat_dest, lon_dest):
+    info = {
+        'origem': name_org,
+        'destino': name_dest,
+        'lat_origem': lat_org,
+        'lon_origem': lon_org,
+        'lat_destino': lat_dest,
+        'lon_destino': lon_dest,
+    }
+
+    return info
 
 def classify_regions_between_link():
     path = easygui.fileopenbox()
@@ -147,3 +159,44 @@ def classify_regions_between_link():
     print('done!')
     with open(f'./parana/coords/{names[-2]}.json', 'w', encoding='utf-8') as outfile:
         outfile.write(json_object)
+
+
+def classify_regions_by_coordinates(name_org, name_dest, lat_org, lon_org, lat_dest, lon_dest):
+    region = []
+    result = []
+
+    current_item = ''
+    current_count = 0  
+
+    img_path = './parana/converted/'
+    img = Image.open(img_path + 'parana_complete.png')
+    
+    coords_dict = create_dict(name_org, name_dest, lat_org, lon_org, lat_dest, lon_dest)
+
+    link_org = (lat_org, lon_org)
+    link_dest = (lat_dest, lon_dest)
+    distance = haversine(link_org, link_dest) * 1000
+    print(distance)
+
+    pixels = get_pixels_between_coords(img, lat_org, lon_org, lat_dest, lon_dest)
+    for pixel in pixels:
+        region.append(compare_pixel_colors(pixel))
+
+    for item in region:
+            if item != current_item and current_item != '':
+                percentage = current_count / len(region)
+                result.append({
+                    f'{current_item}_percentage': percentage,
+                    f'{current_item}_distance': distance * percentage
+                })
+                current_count = 0
+            current_count += 1
+            current_item = item
+
+    coords_dict['distance (meters)'] = distance
+    coords_dict['regions'] = result
+    json_result = json.dumps(coords_dict, indent = 2, ensure_ascii=False)
+    print(json_result)
+    
+
+classify_regions_by_coordinates("GE064", "S-A-001", -26.14818, -53.02522, -26.149718677384, -53.018981962476)
