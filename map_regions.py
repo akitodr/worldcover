@@ -196,7 +196,5 @@ def classify_regions_by_coordinates(name_org, name_dest, lat_org, lon_org, lat_d
     coords_dict['distance (meters)'] = distance
     coords_dict['regions'] = result
     json_result = json.dumps(coords_dict, indent = 2, ensure_ascii=False)
-    print(json_result)
-    
-
-classify_regions_by_coordinates("GE064", "S-A-001", -26.14818, -53.02522, -26.149718677384, -53.018981962476)
+    print("Done!")
+    return json_result
