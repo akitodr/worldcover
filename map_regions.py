@@ -155,7 +155,7 @@ def classify_regions_between_link():
         })
         info['regions'] = result
 
-    json_object = json.dumps(coords_list, indent = 2, ensure_ascii=False)
+    json_object = json.dumps(coords_list, indent=2, ensure_ascii=False)
     print('done!')
     with open(f'./parana/coords/{names[-2]}.json', 'w', encoding='utf-8') as outfile:
         outfile.write(json_object)
@@ -176,14 +176,15 @@ def classify_regions_by_coordinates(name_org, name_dest, lat_org, lon_org, lat_d
     link_org = (lat_org, lon_org)
     link_dest = (lat_dest, lon_dest)
     distance = haversine(link_org, link_dest) * 1000
-    print(distance)
 
     pixels = get_pixels_between_coords(img, lat_org, lon_org, lat_dest, lon_dest)
+
     for pixel in pixels:
         region.append(compare_pixel_colors(pixel))
 
-    for item in region:
+    for index, item in enumerate(region):
             if item != current_item and current_item != '':
+                print(index)
                 percentage = current_count / len(region)
                 result.append({
                     f'{current_item}_percentage': percentage,
@@ -193,8 +194,18 @@ def classify_regions_by_coordinates(name_org, name_dest, lat_org, lon_org, lat_d
             current_count += 1
             current_item = item
 
+    percentage = current_count / len(region)
+    result.append({
+        f'{current_item}_percentage': percentage,
+        f'{current_item}_distance': distance * percentage
+    })
+
     coords_dict['distance (meters)'] = distance
     coords_dict['regions'] = result
-    json_result = json.dumps(coords_dict, indent = 2, ensure_ascii=False)
+    json_result = json.dumps(coords_dict, indent=2, ensure_ascii=False)
     print("Done!")
+    print(json_result)
     return json_result
+
+
+classify_regions_by_coordinates("GE039", "GE036", -26.157075, -53.036291000000006, -26.15427, -53.031290000000006)
